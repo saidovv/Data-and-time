@@ -13,4 +13,5 @@ In JavaScript, date and time are represented by the Date object. The Date object
 ## new Date()
 
 ![](./img/new%20date.jpg)
+result
 ![](./img/new%20date%20answer.jpg)
